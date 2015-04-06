@@ -1,0 +1,5 @@
+# Don't sync vitrual environment
+venv
+
+# Don't sync test files
+debug
